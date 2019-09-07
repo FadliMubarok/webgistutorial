@@ -12,9 +12,11 @@ body{
     margin: 0 auto;
 }
 .header{
-    min-height: 20px;
-    padding: 5px;
-    background-color: aqua;
+    max-width: 300px;
+    margin: 80px auto;        
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
 }
 .map{
     width: 60%;
